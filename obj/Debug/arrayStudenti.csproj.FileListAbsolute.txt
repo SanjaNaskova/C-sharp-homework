@@ -1,0 +1,7 @@
+C:\Users\sanja\Desktop\C#\array studenti\arrayStudenti\arrayStudenti\bin\Debug\arrayStudenti.exe.config
+C:\Users\sanja\Desktop\C#\array studenti\arrayStudenti\arrayStudenti\bin\Debug\arrayStudenti.exe
+C:\Users\sanja\Desktop\C#\array studenti\arrayStudenti\arrayStudenti\bin\Debug\arrayStudenti.pdb
+C:\Users\sanja\Desktop\C#\array studenti\arrayStudenti\arrayStudenti\obj\Debug\arrayStudenti.csprojAssemblyReference.cache
+C:\Users\sanja\Desktop\C#\array studenti\arrayStudenti\arrayStudenti\obj\Debug\arrayStudenti.csproj.CoreCompileInputs.cache
+C:\Users\sanja\Desktop\C#\array studenti\arrayStudenti\arrayStudenti\obj\Debug\arrayStudenti.exe
+C:\Users\sanja\Desktop\C#\array studenti\arrayStudenti\arrayStudenti\obj\Debug\arrayStudenti.pdb
